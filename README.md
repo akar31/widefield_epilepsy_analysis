@@ -18,7 +18,7 @@ epilepsy_01/
 
 NOTES:
  - Use seizure_analysis1.m to create/apply cortex mask. Mask already exists, no need to overwrite unless changes needed.
-     * complete code
+     * final version
        
  - Use get_signal.m to compute the DeltaF/F signal from the pixel fluorescence values.
      * currently runs for 8 frames for testing
